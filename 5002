@@ -101,26 +101,6 @@ http://208.86.19.13:81/902.stream/index.m3u8
 
 http://103.55.144.46:80/hls/t-sports.m3u8
 
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/nYRFnW5.png",CHANNEL I
-
-http://103.55.144.46:80/hls/channeli.m3u8
-
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/kA2ZJQB.png",NEXUS TV
-
-http://103.55.144.46:80/hls/nexus.m3u8
-
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/zsahmn3.png",Maasranga HD
-
-http://103.55.144.46:80/hls/masranga.m3u8
-
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/AMk8mRZ.png",INDEPENDENT
-
-http://103.55.144.46:80/hls/indepen.m3u8
-
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/18m3T6f.jpg",SOMOY TV
-
-http://103.55.144.46:80/hls/somoy.m3u8
-
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/PW9hRDa.png",Sun Bangla
 
 http://103.55.144.46:80/hls/sunbangla.m3u8
@@ -1789,3 +1769,22 @@ http://14.199.164.20:4001/play/a0mx/index.m3u8?checkedby:iptvcat.com
 
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/nYRFnW5.png",CHANNEL I
+
+http://103.55.144.46:80/hls/channeli.m3u8
+
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/kA2ZJQB.png",NEXUS TV
+
+http://103.55.144.46:80/hls/nexus.m3u8
+
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/zsahmn3.png",Maasranga HD
+
+http://103.55.144.46:80/hls/masranga.m3u8
+
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/AMk8mRZ.png",INDEPENDENT
+
+http://103.55.144.46:80/hls/indepen.m3u8
+
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/18m3T6f.jpg",SOMOY TV
+
+http://103.55.144.46:80/hls/somoy.m3u8
