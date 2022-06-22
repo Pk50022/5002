@@ -133,8 +133,6 @@ http://103.55.144.46:80/hls/Sony_Aath.m3u8
 
 http://103.55.144.46:80/hls/zeebanglahd.m3u8
 
-
- 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/ghBUxYm.png",Colors Bangla HD
 
 http://103.55.144.46:80/hls/colorsbangla.m3u8
@@ -215,54 +213,6 @@ http://103.55.144.46:80/hls/mn+.m3u8
 
 http://103.55.144.46:80/hls/mnx-hd.m3u8
 
-#EXTINF:-1 ,Sports_1
-
-http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,sports_2
-
-http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,sports_3
-
-http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,sports_4
-
-http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,sports_5
-
-http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,sports_6
-
-http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,sports_7
-
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-
-#EXTINF:-1 ,sports_8
-
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-1 ,sports_9
-
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
-#EXTINF:-1 ,sports_10
-
-http://182.50.65.213:8888/udp/239.239.0.33:3001
-
-#EXTINF:-1 ,sports_11
-
-http://182.50.65.213:8888/udp/239.239.0.34:3001
-
-#EXTINF:-1 ,sports_12
-
-http://182.50.65.213:8888/udp/239.239.0.35:3001
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/MD0cEBL.png",Star Sports 2 HD
 
@@ -308,7 +258,7 @@ http://103.55.144.46:80/hls/ngohd.m3u8
 
 http://103.55.144.46:80/hls/travelxp.m3u8
 
- 
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/fKwtX8h.png",TLC HD
 
 http://103.55.144.46:80/hls/tlc.m3u8
@@ -493,7 +443,7 @@ http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
 
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 
- 
+
 #EXTINF:-1 ,STARGOLDHD
 
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
