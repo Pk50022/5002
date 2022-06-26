@@ -1,5 +1,4 @@
 
-#EXTM3U
 
 #EXTINF:-1 ,STAR JALSHA
 
@@ -8,10 +7,6 @@ http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 ,Star Jalsha HD
 
 http://103.159.4.38:9191/CH24-INBD3/index.m3u8
-
-#EXTINF:-1 ,star jalsha backup
-
-http://103.136.200.246:8082/Star-Jalsha/index.m3u8
 
 #EXTINF:-1 ,Star Sports 2
 
