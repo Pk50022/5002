@@ -1,4 +1,6 @@
 #EXTINF:-1 ,NAGORIK 
+http://tv.ebox.live:8081/thunderbd/59/chunks.m3u8?nimblesessionid=30697151&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDEyOjQ4OjEwIFBNJmhhc2hfdmFsdWU9S3VkSi94ZEEvTDhWbDE3TEFFNllOdz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 DURONTO
 http://tv.ebox.live:8081/thunderbd/10/chunks.m3u8?nimblesessionid=30696466&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDEyOjM4OjI4IFBNJmhhc2hfdmFsdWU9VWpVMVJxQnlZSjdsTDVJeCtVUWhJdz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 ,STAR JALSHA
 
