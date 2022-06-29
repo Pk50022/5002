@@ -1784,3 +1784,42 @@ http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/iuRzcdO.png",MEGHNA TV
 
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+#EXTINF:-1 ,AVA Family 
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 ,AVA Series 
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 ,GEM TV 
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 ,Persiana Family: 
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Cinema:
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Junior:
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Iranian:
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Technology:
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Documentary:
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Music: 
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Billboard:
+http://51.210.199.10/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Nostalgia:
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Comedy: 
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 ,4 Kurd: 
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1 ,4 Turk: 
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1 ,4 Turk Billboard:
+http://51.210.199.30/hls/stream.m3u8
+
+#EXTINF:-1 ,Persiana Classic:
+http://163.172.138.186/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Action:
+http://51.158.106.105/hls/stream.m3u8
+#EXTINF:-1 ,IRIB Varzesh 
+https://livetv.persianleague.com/live/varzesh1245/chunks.m3u8
