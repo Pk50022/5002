@@ -242,7 +242,6 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
-
 #EXTINF:-1 ,ZEETV HD
 
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
@@ -321,7 +320,6 @@ http://103.55.144.46:80/hls/sony-maxhd.m3u8
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1 ,MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-
 #EXTINF:-1 ,PERSIANA2
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
 #EXTINF:-1 ,দেশি টিভি
@@ -443,7 +441,6 @@ https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/i
 
 http://stream.accessnetbd.com/hls/sky7.m3u8
 
- 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://tinyurl.com/bddmnyb6",Gazi TV (BDIX13)
 
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
@@ -934,7 +931,6 @@ http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 
 http://103.55.144.46//hls/discovery.m3u8
 
-
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png",9xm(Flixhub)
 
 http://103.55.144.46/hls/9xm.m3u8
@@ -986,10 +982,6 @@ http://208.86.19.13:80/664.stream/index.m3u8
 #EXTINF:-1 ,MOHONA TV
 
 http://208.86.19.13:80/681.stream/index.m3u8
-
-
-
-
 
 #EXTINF:-1 ,7Star TV
 
