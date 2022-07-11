@@ -725,7 +725,7 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
 http://208.86.19.13:81/717.stream/index.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,axn
 AXNhttp://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
 
 http://210.210.155.35:80/dr9445/h/h141/02.m3u8
@@ -757,7 +757,6 @@ http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I(Flixhub)
 
 http://103.55.144.46/hls/channeli.m3u8
-
  
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I(Jagobd)
 
@@ -935,9 +934,6 @@ http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 
 http://103.55.144.46//hls/discovery.m3u8
 
-#EXTINF:-1 group-title="BD2",AND Xplor HD(BD2)
-
-http://208.86.19.13:81/730.stream/index.m3u8
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png",9xm(Flixhub)
 
@@ -954,10 +950,6 @@ http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",BBC World(Flixhub)
 
 http://103.55.144.46/hls/bbcworld.m3u8
-
-#EXTINF:-1 ,TV
-
-https://live.thairath.co.th/trtv2/playlist.m3u8
 
 #EXTINF:-1 ,BTV
 
@@ -979,7 +971,6 @@ http://208.86.19.13:81/626.stream/index.m3u8
 
 http://208.86.19.13:81/613.stream/index.m3u8
 
- 
 #EXTINF:-1 ,My TV BD
 
 http://208.86.19.13:80/651.stream/index.m3u8
@@ -996,494 +987,9 @@ http://208.86.19.13:80/664.stream/index.m3u8
 
 http://208.86.19.13:80/681.stream/index.m3u8
 
-#EXTINF:-1 ,Test 1
 
-http://103.55.144.46//hls/sonyten1.m3u8
 
-#EXTINF:-1 ,Test 2
 
-http://103.55.144.46//hls/sonyten2.m3u8
-
-#EXTINF:-1 ,Test 4
-
-http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Test 5
-
-http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,TEST 6
-
-http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Test 7
-
-http://217.74.16.155:8082/local//ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Test 8
-
-http://217.74.16.155:8082/local//ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Test 9
-
-http://217.74.16.155:8082/local//ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,10
-
-https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beiN Sport 2 English
-
-http://217.74.16.155:8082/local/ar-s/bein-afc-2/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beiN Sport 3 English
-
-http://217.74.16.155:8082/local/ar-s/bein-afc-3/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Astro Supper Sports
-
-http://203.154.243.89:21201/nakhon
-
-#EXTINF:-1 group-title="SPORTS",Astro Supper Sports-2
-
-http://203.154.243.89:21202/nakhon
-
-#EXTINF:-1 group-title="SPORTS",Astro Supper Sports-3
-
-http://203.154.243.89:21203/nakhon
-
-#EXTINF:-1 group-title="SPORTS",Astro Supper Sports-4
-
-http://203.154.243.89:21204/nakhon
-
-#EXTINF:-1 ,Film & Arts
-
-http://190.83.119.67:8000/play/a0oj/index.m3u8
-
-#EXTINF:-1 ,Film & arts HD
-
-http://190.83.119.67:8000/play/a0q6/index.m3u8
-
-#EXTINF:-1 ,BBC America
-
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
-
-#EXTINF:-1 ,History Channel
-
-http://190.83.119.67:8000/play/a0sc/index.m3u8
-
-#EXTINF:-1 ,History HD
-
-http://190.83.119.67:8000/play/a0px/index.m3u8
-
-#EXTINF:-1 ,H2
-
-http://190.83.119.67:8000/play/a0r7/index.m3u8
-
-#EXTINF:-1 ,Discovery Channel (Guatemala)
-
-http://190.83.119.67:8000/play/a0sa/index.m3u8
-
-#EXTINF:-1 ,Discovery Channel (Guatemala)
-
-http://190.83.119.67:8000/play/a0tb/index.m3u8
-
-#EXTINF:-1 ,Discovery Theater (Latinoamérica)
-
-http://190.83.119.67:8000/play/a0sr/index.m3u8
-
-#EXTINF:-1 ,Warner HD
-
-http://190.83.119.67:8000/play/a0tk/index.m3u8
-
-#EXTINF:-1 ,Warner
-
-http://190.83.119.67:8000/play/a0s6/index.m3u8
-
-#EXTINF:-1 ,Sony
-
-http://190.83.119.67:8000/play/a0s5/index.m3u8
-
-#EXTINF:-1 ,Sony HD
-
-http://190.83.119.67:8000/play/a0sk/index.m3u8
-
-#EXTINF:-1 ,Star Channel HD
-
-http://190.83.119.67:8000/play/a0si/index.m3u8
-
-#EXTINF:-1 ,A&E
-
-http://190.83.119.67:8000/play/a0s8/index.m3u8
-
-#EXTINF:-1 ,A&E HD
-
-http://190.83.119.67:8000/play/a0q7/index.m3u8
-
-#EXTINF:-1 ,AXN
-
-http://190.83.119.67:8000/play/a0pp/index.m3u8
-
-#EXTINF:-1 ,FX
-
-http://190.83.119.67:8000/play/a0r4/index.m3u8
-
-#EXTINF:-1 ,FX HD
-
-http://190.83.119.67:8000/play/a0qa/index.m3u8
-
-#EXTINF:-1 ,TNT Series
-
-http://190.83.119.67:8000/play/a0pi/index.m3u8
-
-#EXTINF:-1 ,TNT Series HD
-
-http://190.83.119.67:8000/play/a0ta/index.m3u8
-
-#EXTINF:-1 ,Sun Channel
-
-http://190.83.119.67:8000/play/a0r9/index.m3u8
-
-#EXTINF:-1 ,Euro Channel
-
-http://45.226.67.3:58001/play/a01l/index.m3u8
-
-#EXTINF:-1 ,Sony Movies HD
-
-http://190.83.119.67:8000/play/a0qc/index.m3u8
-
-#EXTINF:-1 ,TNT
-
-http://190.83.119.67:8000/play/a0pq/index.m3u8
-
-#EXTINF:-1 ,TNT HD
-
-http://190.83.119.67:8000/play/a0sq/index.m3u8
-
-#EXTINF:-1 ,AMC
-
-http://190.83.119.67:8000/play/a0pr/index.m3u8
-
-#EXTINF:-1 ,AMC HD
-
-http://190.83.119.67:8000/play/a0q8/index.m3u8
-
-#EXTINF:-1 ,DHE
-
-http://181.176.148.142:8000/play/a027
-
-#EXTINF:-1 ,Studio Universal HD
-
-http://190.83.119.67:8000/play/a0q2/index.m3u8
-
-#EXTINF:-1 ,Paramount
-
-http://190.83.119.67:8000/play/a0ol/index.m3u8
-
-#EXTINF:-1 ,Paramount HD
-
-http://190.83.119.67:8000/play/a0t9/index.m3u8
-
-#EXTINF:-1 ,SPACE
-
-http://190.83.119.67:8000/play/a0ph/index.m3u8
-
-#EXTINF:-1 ,SyFy
-
-http://190.83.119.67:8000/play/a0s9/index.m3u8
-
-#EXTINF:-1 ,SyFy HD
-
-http://190.83.119.67:8000/play/a0q3/index.m3u8
-
-#EXTINF:-1 ,UNIVERSAL CINEMA
-
-http://190.83.119.67:8000/play/a0om/index.m3u8
-
-#EXTINF:-1 ,UNIVERSAL CINEMA HD
-
-http://190.83.119.67:8000/play/a0v2/index.m3u8
-
-#EXTINF:-1 ,UNIVERSAL PREMIERE HD
-
-http://190.83.119.67:8000/play/a0ui/index.m3u8
-
-#EXTINF:-1 ,UNIVERSAL PREMIERE O HD
-
-http://190.83.119.67:8000/play/a0uj/index.m3u8
-
-#EXTINF:-1 ,HBO
-
-http://181.189.254.33:8083/play/a04d/index.m3u8
-
-#EXTINF:-1 ,HBO Family
-
-http://181.189.254.33:8083/play/a04g/index.m3u8
-
-#EXTINF:-1 ,HBO Plus
-
-http://181.189.254.33:8083/play/a04f/index.m3u8
-
-#EXTINF:-1 ,HBO XTREME
-
-http://181.189.254.33:8083/play/a01k/index.m3u8
-
-#EXTINF:-1 ,HBO2
-
-http://181.189.254.33:8083/play/a04e/index.m3u8
-
-#EXTINF:-1 ,Golden
-
-http://ultra-premium-pro.xyz:8080/pato/pato/137
-
-#EXTINF:-1 ,Golden Edge HQ
-
-http://qqtv.nl:8080/niloofar/niloofar/20165
-
-#EXTINF:-1 ,Golden + HQ
-
-http://qqtv.nl:8080/niloofar/niloofar/20420
-
-#EXTINF:-1 ,Golden Premier
-
-http://tv-cool.com:25461/gabjha593/056b5314ff/32914
-
-#EXTINF:-1 ,CINECANAL HD
-
-http://190.83.119.67:8000/play/a0sl/index.m3u8
-
-#EXTINF:-1 ,Multicinema
-
-http://190.83.119.67:8000/play/a0o5/index.m3u8
-
-#EXTINF:-1 ,TCM
-
-http://190.83.119.67:8000/play/a0ri/index.m3u8
-
-#EXTINF:-1 ,De Pelicula Plus
-
-https://2.tunelive.net:3359/stream/play.m3u8
-
-#EXTINF:-1 ,Cine Latino
-
-http://190.83.119.67:8000/play/a0tl/index.m3u8
-
-#EXTINF:-1 ,BBC Earth
-
-http://195.189.60.227:9091/play/a147
-
-#EXTINF:-1 ,Animal Planet
-
-http://190.83.119.67:8000/play/a0sb/index.m3u8
-
-#EXTINF:-1 ,Animal Planet HD
-
-http://190.83.119.67:8000/play/a0q4/index.m3u8
-
-#EXTINF:-1 ,National Geographic HD
-
-http://190.83.119.67:8000/play/a0t8/index.m3u8
-
-#EXTINF:-1 ,National Geographic
-
-http://190.83.119.67:8000/play/a0pk/index.m3u8
-
-#EXTINF:-1 ,National Geographic Wild
-
-http://qqtv.nl:8080/niloofar/niloofar/20246
-
-#EXTINF:-1 ,Discovery Science
-
-http://190.83.119.67:8000/play/a0ny/index.m3u8
-
-#EXTINF:-1 ,Discovery ID HD
-
-http://190.83.119.67:8000/play/a0tf/index.m3u8
-
-#EXTINF:-1 ,Discovery World HD
-
-http://190.83.119.67:8000/play/a0tc/index.m3u8
-
-#EXTINF:-1 ,Home Garden Latino
-
-http://190.83.119.67:8000/play/a0nx/index.m3u8
-
-#EXTINF:-1 ,TLC
-
-http://190.83.119.67:8000/play/a0sd/index.m3u8
-
-#EXTINF:-1 ,Mas Chic
-
-http://190.83.119.67:8000/play/a0nu/index.m3u8
-
-#EXTINF:-1 ,Comedy Central HD
-
-http://190.83.119.67:8000/play/a0su/index.m3u8
-
-#EXTINF:-1 ,TBS
-
-http://190.83.119.67:8000/play/a0pj/index.m3u8
-
-#EXTINF:-1 ,Tru TV
-
-http://190.83.119.67:8000/play/a0pe/index.m3u8
-
-#EXTINF:-1 ,BBC One NI
-
-http://87.212.248.44:60230/play/a06z/index.m3u8
-
-#EXTINF:-1 ,BBC One South
-
-http://87.212.248.44:60230/play/a04k/index.m3u8
-
-#EXTINF:-1 ,BBC One Yk&Li
-
-http://87.212.248.44:60230/play/a04d/index.m3u8
-
-#EXTINF:-1 ,BBC Two NI
-
-http://87.212.248.44:60230/play/a070/index.m3u8
-
-#EXTINF:-1 ,BBC Two Wales
-
-http://87.212.248.44:60230/play/a04i/index.m3u8
-
-#EXTINF:-1 ,ABC News
-
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 ,Telebasel
-
-https://list.iptvcat.com/my_list/s/9f189cf41ef14687b5abd5d1f9b115fc.m3u8
-
-#EXTINF:-1 ,Kanal9
-
-https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
-
-#EXTINF:-1 ,Tele 1 (1080p)
-
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
-
-#EXTINF:-1 ,Tele ZURI (720p)
-
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
-
-#EXTINF:-1 ,TeleBielingue (720p)
-
-https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
-
-#EXTINF:-1 ,Die Neue Zeit
-
-https://list.iptvcat.com/my_list/s/fe1c3841b4ac042e0a0d22fb17e8ac36.m3u8
-
-#EXTINF:-1 ,nhk world Japan_USEETV
-
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
-
-#EXTINF:-1 ,Hallmark Movies & More (720p)
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-
-#EXTINF:-1 ,1-2-3 TV (480p)
-
-http://123tv-mx1.flex-cdn.net/index.m3u8
-
-#EXTINF:-1 ,*Das Erste (720p)
-
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-
-#EXTINF:-1 ,NatGeo Kids HQ
-
-http://qqtv.nl:8080/niloofar/niloofar/20152
-
-#EXTINF:-1 ,Discovery Kids HD
-
-http://190.83.119.67:8000/play/a0ob/index.m3u8
-
-#EXTINF:-1 ,11.2 Once Niñas y Niños
-
-http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
-
-#EXTINF:-1 ,Disney JR
-
-http://190.83.119.67:8000/play/a0pb/index.m3u8
-
- 
-#EXTINF:-1 ,Disney XD HQ
-
-http://qqtv.nl:8080/niloofar/niloofar/20233
-
-#EXTINF:-1 ,Cartoon Network
-
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 ,Nick Jr.
-
-http://190.83.119.67:8000/play/a0p9/index.m3u8
-
-#EXTINF:-1 ,Nickelodeon
-
-http://190.83.119.67:8000/play/a0so/index.m3u8
-
-#EXTINF:-1 ,Univision HD
-
-http://190.83.119.67:8000/play/a0v0/index.m3u8
-
-#EXTINF:-1 ,TVE
-
-http://190.83.119.67:8000/play/a0o6/index.m3u8
-
-#EXTINF:-1 ,TVChile
-
-http://190.83.119.67:8000/play/a0nw/index.m3u8
-
-#EXTINF:-1 ,Antena 3
-
-http://190.83.119.67:8000/play/a0nv/index.m3u8
-
-#EXTINF:-1 ,Star TVE HD
-
-http://190.83.119.67:8000/play/a0qf/index.m3u8
-
-#EXTINF:-1 ,FOX Sports 2
-
-http://190.83.119.67:8000/play/a0rc/index.m3u8
-
-#EXTINF:-1 ,Fox Sport 3
-
-http://190.83.119.67:8000/play/a0pm/index.m3u8
-
-#EXTINF:-1 ,ESPN
-
-http://190.83.119.67:8000/play/a0se/index.m3u8
-
-#EXTINF:-1 ,ESPN  +
-
-http://190.83.119.67:8000/play/a0py/index.m3u8
-
-#EXTINF:-1 ,ESPN 2
-
-http://190.83.119.67:8000/play/a0sf/index.m3u8
-
-#EXTINF:-1 ,ESPN 3
-
-http://190.83.119.67:8000/play/a0rb/index.m3u8
-
-#EXTINF:-1 ,Tigo Sports HD
-
-http://190.83.119.67:8000/play/a0sn/index.m3u8
-
-#EXTINF:-1 ,Claro Sports  HD
-
-http://190.83.119.67:8000/play/a0on/index.m3u8
-
-#EXTINF:-1 ,Golf Channel
-
-http://190.83.119.67:8000/play/a0o3/index.m3u8
-
-#EXTINF:-1 ,5AAB TV
-
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,7Star TV
 
@@ -1642,11 +1148,9 @@ http://51.210.199.25/hls/stream.m3u8
 http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1 ,Persiana Music: 
 http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 ,Persiana Billboard:
-http://51.210.199.10/hls/stream.m3u8
 #EXTINF:-1 ,Persiana Nostalgia:
 http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 ,Persiana Comedy: 
 http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1,nick
-http://103.139.171.5:5001/jiotvplus/play.php?c=Pogo_Hindi&q=1200&e=.m3u8
+
+
