@@ -1,6 +1,4 @@
 
-#EXTINF:-1 ,Star Sports 2
-http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 ,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Zee cinema
@@ -119,12 +117,7 @@ http://103.55.144.46:80/hls/nick.m3u8
 http://103.55.144.46:80/hls/cn.m3u8
 #EXTINF:-1 group-title="FCN-KIDS" tvg-logo="https://imgur.com/VKSpv5k.png",POGO SD
 http://103.55.144.46:80/hls/pogo.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/TWLVa2a.png",9XM
-http://103.55.144.46:80/hls/9xm.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/RpXwNZM.png",Zoom
-http://103.55.144.46:80/hls/zoom.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/PxyoUY5.png",Bindaas
-http://103.55.144.46:80/hls/bindass.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/LNGJDc4.png",Amar Bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/Tp3Kead.png",Enter 10 Bangla
@@ -138,17 +131,11 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 group-title="HIND MUSIC" tvg-logo="https://imgur.com/wg3N1VT.png",MusicIndia
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 ,ZEETV HD
-
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-
 #EXTINF:-1 ,STARPLUSUK
-
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,STARPLUSUK
-
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-
 #EXTINF:-1 ,COLORS HD
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
 #EXTINF:-1 ,COLORSHD
@@ -513,36 +500,20 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",Madina live
 
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Sonic-The-Hedgehog-Logo.png",Sonic
-
-http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
-
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png",CGTN
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png",V NATURE
 http://iptv.prosto.tv:7000/ch84/video.m3u8
-
 #EXTINF:-1 ,zee bangla cinema
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
-
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
-
 #EXTINF:-1 ,colors bangla
 http://103.136.200.246:8082/colorsbangla/index.m3u8
-
+EXTINF:-1,COLORS BANGLA
 http://103.55.144.46/hls/colorsbangla.m3u8
-
 #EXTINF:-1 ,colors bangla cinema
 http://103.167.190.250/hls/colore-bangla-cinema.m3u8
-
 http://208.86.19.13:81/907.stream/index.m3u8
-#EXTINF:-1 ,wow
-https://ilove.livebox.co.in/wowinhls/live.m3u8
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524",Color Cineplex HD
 http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:-1 ,utv action
@@ -586,43 +557,24 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 group-title="Fire TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",Somoy TV(Fire TV)
 http://103.55.144.46/hls/somoy.m3u8
-
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla HD(Flixhub)
-
 http://103.55.144.46/hls/zeebanglahd.m3u8
-
 #EXTINF:-1 group-title="BD2" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png",Amar Bangla(BD2)
-
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV(Flixhub)
-
 http://103.55.144.46/hls/zeetv.m3u8
-
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",Colors Cineplex(BD2)
-
 http://208.86.19.13:81/735.stream/index.m3u8
-
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star Sports 1(Flixhub)
-
 http://103.55.144.46//hls/stersports1hd.m3u8
-
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png",Star Sports 3(Flixhub)
-
 http://103.55.144.46/hls/starsports3.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/LeIa06D.png",ABP Ananda (akamai)
-
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png",Zee Bangla HD (str)
-
 http://str24.l9574.com:80/615.stream/index.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/colorsbangla.png",Colors Bangla (str)
-
 http://str24.l9574.com/616.stream/index.m3u8
-
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/8zmLbfi.png",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://durbinlive.com/uploads/tv_image/sm/hajj-live.jpg",Makkah Live
@@ -666,17 +618,15 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/i5J3zrE.png",Pogo
 http://144.217.70.181:9587/hin2/POGO/index.m3u8
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Sonic-The-Hedgehog-Logo.png",Sonic
+http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/9SYqIRU.png",ZEE TV HD (str)
-
 http://208.86.19.13:81/606.stream/index.m3u8
-
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/DsVRIof.jpg",Star Plus  (str)
-
 http://208.86.19.13:81/607.stream/index.m3u8
 
 
@@ -706,7 +656,12 @@ http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/TWLVa2a.png",9XM
+http://103.55.144.46:80/hls/9xm.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/RpXwNZM.png",Zoom
+http://103.55.144.46:80/hls/zoom.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/PxyoUY5.png",Bindaas
+http://103.55.144.46:80/hls/bindass.m3u8
 
 
 
