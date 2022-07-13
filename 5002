@@ -570,11 +570,11 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://103.55.144.46/hls/dis-science.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/iXwGMoe.png",TLC (BDIX14)
 http://103.55.144.46/hls/tlc.m3u8
-#EXTINF:-1 ,TV5 Monde Style HD
+#EXTINF:-1,TV5 Monde Style HD
 http://210.210.155.35/dr9445/h/h01/index.m3u8
-#EXTINF:-1 ,Aniplus Asia
+#EXTINF:-1,Aniplus Asia
 http://210.210.155.35/dr9445/h/h02/index.m3u8
-#EXTINF:-1 ,Bloomberg
+#EXTINF:-1,Bloomberg
 http://210.210.155.35/dr9445/h/h03/index.m3u8
 #EXTINF:-1,CinemaWorld Asia
 http://210.210.155.35/dr9445/h/h04/index.m3u8
@@ -582,7 +582,7 @@ http://210.210.155.35/dr9445/h/h04/index.m3u8
 http://210.210.155.35/dr9445/h/h05/index.m3u8
 #EXTINF:-1,Kix Asia
 http://210.210.155.35/dr9445/h/h07/index.m3u8
-#EXTINF:-1 ,RTV
+#EXTINF:-1,RTV
 http://210.210.155.35/dr9445/h/h10/index.m3u8
 #EXTINF:-1 ,Celestial Movies Asia
 http://210.210.155.35/dr9445/h/h14/index.m3u8
@@ -590,13 +590,13 @@ http://210.210.155.35/dr9445/h/h14/index.m3u8
 http://210.210.155.35/dr9445/h/h15/index.m3u8
 #EXTINF:-1 ,Rock Entertainment Asia
 http://210.210.155.35/dr9445/h/h16/index.m3u8
-#EXTINF:-1 ,TVN
+#EXTINF:-1,TVN
 http://210.210.155.35/dr9445/h/h20/index.m3u8
-#EXTINF:-1 ,TVN Movies
+#EXTINF:-1,TVN Movies
 http://210.210.155.35/dr9445/h/h21/index.m3u8
-#EXTINF:-1 ,Hits
+#EXTINF:-1,Hits
 http://210.210.155.35/dr9445/h/h37/index.m3u8
-#EXTINF:-1 ,AXN East Asia
+#EXTINF:-1,AXN East Asia
 http://210.210.155.35/dr9445/h/h141/index.m3u8
 #EXTINF:-1,BIZNET ADVENTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
