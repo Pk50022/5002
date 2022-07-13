@@ -1,5 +1,11 @@
+#EXTINF:-1 tvg-logo="https://imgur.com/kKMFwvZ"group-title="Hindi Moviez",JOO Movies
+https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:-1,ZEECLASSICHD
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEEANMOLCINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONYMAX2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE ACTION
@@ -246,56 +252,31 @@ https://cdn.appv.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58JICx.jpg",THE CHANNEL TV
 
 https://cdn.appv.jagobd.com:444/live-orgin/thechanneltv.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58Ju8j.jpg",TiMES 24 IPTV
-
 https://cdn.appv.jagobd.com:444/live-orgin/times24tv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58JwcS.jpg",VARENDRA TV
-
 https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58Yw1b.jpg",CAN BANGLA
-
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/canbanglatv.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58YMKG.jpg",Millenium TV
-
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58ixRj.jpg",JONMOBHUMI TV
-
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/jonmobhumitv.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58KYg4.jpg",TIME TV US
-
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/timetvusa.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58YtW4.jpg",ION TV UK
-
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/iontvuk.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58Y5x3.jpg",TV ONE UK
-
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/tvoneuksni.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58iPuS.jpg",I IPTV [BD]
-
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/9ArrdIr.png",MAGIC BANGLA
-
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/OTzS5Fc.png",ATN MUSIC
-
 https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/oMXI9Dv.png",GAAN BANGLA
-
 https://cdn.appv.jagobd.com:444/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV MUSIC
-
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 
 #EXTINF:-1 ,outside-tv
@@ -303,7 +284,6 @@ https://outside-tv.samsung.wurl.com:443/manifest/316fba602419717190792b6b4757425
 #EXTINF:-1 ,food
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 6 (BDIX - Accessnet)
-
 http://stream.accessnetbd.com/hls/sky7.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://tinyurl.com/bddmnyb6",Gazi TV (BDIX13)
@@ -569,6 +549,17 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://103.55.144.46/hls/dis-science.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/iXwGMoe.png",TLC (BDIX14)
 http://103.55.144.46/hls/tlc.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="FASHON TV.18+",FTV👙 Midnight👠
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="FASHON TV.18+",FTV🌶️ International🌶️
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="FASHON TV.18+",FTV C&S
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="FASHON TV.18+",Fashon TV 
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="FASHON TV.18+",FTV PG-16
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+
 #EXTINF:-1,TV5 Monde Style HD
 http://210.210.155.35/dr9445/h/h01/index.m3u8
 #EXTINF:-1,Aniplus Asia
