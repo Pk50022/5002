@@ -2,7 +2,7 @@
 http://208.86.19.13:81/903.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PW9hRDa.png",Sun Bangla
 http://103.55.144.46:80/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PW9hRDa.png,sunbangla
+#EXTINF:-1 tvg-logo="https://imgur.com/PW9hRDa.png",sunbangla
 http://103.55.144.46/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RqJGZfm.png",Sony Aath
 http://103.55.144.46:80/hls/Sony_Aath.m3u8
@@ -25,7 +25,7 @@ http://103.55.144.46/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png",Jalsha Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png",Jalsha Movies HD
-http://103.55.144.46/hls/jalshamovies.m3u8
+http://103.55.144.46:80/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uP36aiN.png",Colors Bangla Cinema
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HYcWvd9.png",Colors Bangla Cinema
