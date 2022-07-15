@@ -162,8 +162,6 @@ http://103.55.144.46/hls/dhin.m3u8
 .....  ❤️❤️❤️❤️❤️SPORTS❤️❤️❤️❤️... 
 #EXTINF:-1,SONY LIVE2
 https://ranapk.ml/Sony_Liv-2.m3u8
-#EXTINF:-1,SONY LIVE4
-https://ranapk.ml/Sony_Liv-4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png",T Sports HD
 http://103.55.144.46:80/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png",Star Sports 2 HD
@@ -200,7 +198,8 @@ http://103.55.144.46/hls/select2.m3u8
 http://103.55.144.46//hls/stersports1hd.m3u8
 #EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png",Star Sports 3(Flixhub)
 http://103.55.144.46/hls/starsports3.m3u8
-
+#EXTINF:-1,SONY LIVE4
+https://ranapk.ml/Sony_Liv-4.m3u8
 
 
 ......... ❤️❤️❤️❤️❤️❤️DOCUMENTARY❤️❤️❤️❤️...  
