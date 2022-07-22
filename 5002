@@ -160,8 +160,9 @@ http://103.55.144.46/hls/dhin.m3u8
 
 
 .....  ❤️❤️❤️❤️❤️SPORTS❤️❤️❤️❤️... 
-#EXTINF:-1,SONY LIVE2
-https://ranapk.ml/Sony_Liv-2.m3u8
+
+#EXTINF:-1, WILLOOW CRICKET
+http://ranapk.cf/cdn/TG@Ranapk73-346/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png",T Sports HD
 http://103.55.144.46:80/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png",Star Sports 2 HD
