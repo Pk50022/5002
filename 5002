@@ -730,12 +730,12 @@ http://51.210.199.24/hls/stream.m3u8
 http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 ,Persiana Comedy: 
 http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1,
+#EXTINF:-1,&TV
 http://ranapk.cf/ZxRn.php?c=0-9-tvhd_0
-#EXTINF:-1,
+#EXTINF:-1,24GHANTA
 http://ranapk.cf/ZxRn.php?c=0-9-24ghantatv
-#EXTINF:-1,
+#EXTINF:-1,ZEECINEMALU
 http://ranapk.cf/ZxRn.php?c=0-9-zeecinemalu
-#EXTINF:-1,
+#EXTINF:-1,ZEETALKIES
 http://ranapk.cf/ZxRn.php?c=0-9-zeetalkies
 
