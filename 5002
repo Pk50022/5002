@@ -736,18 +736,16 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
 #EXTINF:-1,bein7
 http://93.152.174.144:4000/play/bein5Ar/index.m3u8
-#EXTINF:-1,bein2fr
-http://93.152.174.144:4000/play/bein5Ar/index.m3u8
+
 #EXTINF:-1,BEIN7
 http://93.152.174.144:4000/play/bein7/index.m3u8
 #EXTINF:-1,MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
-#EXTINF:-1,XYZ
+#EXTINF:-1,MN TV
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1,MNTV
+#EXTINF:-1,MRTV-4
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
 #EXTINF:-1,channelk
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMzozMTo0OSBBTSZoYXNoX3ZhbHVlPUJBSG54TklSSVJ0T3UyRnN5NGdFMWc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTg
-=
-#EXTINF:-1,XYZ
+#EXTINF:-1,CHANNEL 7HD
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
