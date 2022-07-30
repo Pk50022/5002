@@ -697,3 +697,57 @@ http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 ,Persiana Comedy: 
 http://51.210.199.27/hls/stream.m3u8
 
+#EXTINF:-1,MTV
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1,KPOPTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1,MAYANMAR MUSIC
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+#EXTINF:-1,TVN
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1,CINEMAX
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FOX TV
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1,TV
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:-1,TVX
+http://f4.tvxweb.net:8082/24264/tracks-v1a1/mono.m3u8
+#EXTINF:-1,XYZ
+http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/107492
+#EXTINF:-1,MOVIE1
+http://f4.tvxweb.net:8082/24266/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MOVE2
+http://f4.tvxweb.net:8082/24266/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MOVE3
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1,XYZ
+http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/78527
+
+#EXTINF:-1,XYZ
+http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/78528
+#EXTINF:-1,xyz
+http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/78529
+#EXTINF:-1,bein1ar
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:-1,bein4ar
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1,bein4ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1,bein7
+http://93.152.174.144:4000/play/bein5Ar/index.m3u8
+#EXTINF:-1,bein2fr
+http://93.152.174.144:4000/play/bein5Ar/index.m3u8
+#EXTINF:-1,BEIN7
+http://93.152.174.144:4000/play/bein7/index.m3u8
+#EXTINF:-1,MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+#EXTINF:-1,XYZ
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1,MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+#EXTINF:-1,channelk
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMzozMTo0OSBBTSZoYXNoX3ZhbHVlPUJBSG54TklSSVJ0T3UyRnN5NGdFMWc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTg
+=
+#EXTINF:-1,XYZ
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
