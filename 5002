@@ -276,7 +276,10 @@ http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 
 ....  ...  🇧🇧🇧🇧🇧🇧🇧🇧🇧🇧 MUSIC🇦🇨🇦🇨🇦🇨🇦🇨.... 
 
-
+#EXTINF:-1,TRACE URBAN HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,TRACE URBAN HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png",Zoom
 http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:-1 ,MTVINDIA
