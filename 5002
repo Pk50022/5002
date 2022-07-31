@@ -753,3 +753,23 @@ https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMzozMTo0OSBBTSZoYXNoX3ZhbHVlPUJBSG54TklSSVJ0T3UyRnN5NGdFMWc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTg
 #EXTINF:-1,CHANNEL 7HD
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1,PERSIANA ONE
+http://51.210.199.21/hls/stream.m3u8
+
+#EXTINF:-1,persiana korea
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1,pr tv 
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8
+#EXTINF:-1,i flim urab
+https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8
+#EXTINF:-1,i flim 2
+https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
+#EXTINF:-1,fx
+http://51.210.199.52/hls/stream.m3u8
+
+
+#EXTINF:-1,bikini tv
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1,pmc
+http://51.210.199.29/hls/stream.m3u8
