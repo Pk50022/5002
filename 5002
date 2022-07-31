@@ -154,8 +154,10 @@ http://103.55.144.46:80/hls/movies-now.m3u8
 http://103.55.144.46:80/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/msSkZ5F.png",MNX HD [HD]
 http://103.55.144.46:80/hls/mnx-hd.m3u8
-#EXTINF:-1, FOX
+#EXTINF:-1, TV8&
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1, FOX
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 ,DHINCHAK HD
 http://103.55.144.46/hls/dhin.m3u8
 
