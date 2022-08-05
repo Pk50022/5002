@@ -204,8 +204,8 @@ http://103.55.144.46/hls/starsports3.m3u8
 
 ......... ❤️❤️❤️❤️❤️❤️DOCUMENTARY❤️❤️❤️❤️...  
 
-
-
+#EXTINF:-1,Discovery Pakistan 
+https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZY6bPmR.png",bbcearth
 http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZY6bPmR.png",BBC Earth HD
