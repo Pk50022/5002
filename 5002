@@ -783,12 +783,8 @@ https://stream.arylive.com/zindagi/myStream/index.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/bolent.smil/playlist.m3u8
 #EXTINF:-1 ,Sindh Tv
 https://streamone.simpaisa.com:8443/pitvlive1/sindhtv.smil/playlist.m3u8
-#EXTINF:-1 ,Animal Plannet
-https://cdn.ta.tapmad.com/taptv/e902ac718b85b4ff38f46707e5c4a0bc.sdp/playlist.m3u8
 #EXTINF:-1 ,Khyber Entertainment
-https://streamone.simpaisa.com:8443/pitvlive1/khyber.smil/playlist.m3u8
-#EXTINF:-1 ,Discovery Pakistan
-https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/khyber.smil/playlist.m3u
 #EXTINF:-1 ,See Tv
 https://streamone.simpaisa.com:8443/pitvlive1/seetv.smil/playlist.m3u8
 #EXTINF:-1 ,A Plus
