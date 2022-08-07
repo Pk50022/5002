@@ -83,11 +83,15 @@ http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 http://103.55.144.46:80/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png",ZEE CINEMA HD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema Hd
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 ,Utv MOVIES HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
-#EXTINF:-1 ,ZEETV HD
+#EXTINF:-1 tvg-logo="https://imgur.com/xN5TNtJ.png",Zee Tv Hd
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xN5TNtJ.png",ZEETV HD
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xN5TNtJ.png",ZEE TV HD
 http://103.55.144.46:80/hls/zeetv.m3u8
@@ -134,6 +138,8 @@ http://103.55.144.46:80/hls/stargold.m3u8
 http://103.55.144.46:80/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",Colors Cineplex(BD2)
 http://208.86.19.13:81/735.stream/index.m3u8
+#EXTINF:-1 ,Sony Max hd
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 ,sony-maxhd
 http://103.55.144.46:80/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-pictures-hd.png",65. &PICTURES HD
@@ -142,6 +148,8 @@ http://103.55.144.46/hls/andpictures.m3u8
 http://103.55.144.46:80/hls/utvaction.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/KRjdRnV.png",Goldmins
 http://103.55.144.46:80/hls/dhin.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png",Star Movies hd
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png",Star Movies HD
 http://103.55.144.46:80/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K8YUMMt.png",Star World HD [HD]
@@ -821,14 +829,10 @@ http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 ,Ary Digital
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/app.stream/playlist.m3u8
-#EXTINF:-1 ,Sony Max hd
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
-#EXTINF:-1 ,Star Movies hd
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Zee Tv Hd
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Zee Cinema Hd
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+
+
+
+
 #EXTINF:-1 ,Geo Super
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
