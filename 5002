@@ -444,6 +444,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", K TV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 ,দেশি টিভি
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 ,দেশি টিভি
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 ,MQC TV
 http://208.86.19.13:81/517.stream/index.m3u8
