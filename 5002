@@ -435,6 +435,8 @@ https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV MUSIC
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
+#EXTINF:1,NTV
+http://tv.ebox.live:8081/thunderbd/54/chunks.m3u8?nimblesessionid=31712220&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgNToyMDowMiBBTSZoYXNoX3ZhbHVlPU4ybjlUQlZEdUFVUVNrb3JRbVRrYWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:1, DURONTO
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:1, ,Mohona Tv
