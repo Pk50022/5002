@@ -231,7 +231,7 @@ http://103.55.144.46:80/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m7Cl2M9.png",NATIONAL GEOGRAPHIC
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dpf1I1U.png",TravelXP
-http://103.55.144.46:80/hls/travelxp.m3u8
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dpf1I1U.png",travelxp
 http://103.55.144.46/hls/travelxp.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fKwtX8h.png",TLC HD
