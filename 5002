@@ -78,8 +78,6 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G0fh0PU.png",Star Gold2
 http://103.55.144.46:80/hls/stargold2hd.m3u8
-#EXTINF:-1 ,STAR GOLD SELECT
-http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 ,STAR GOLD (NEW)
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",STARGOLD
@@ -437,6 +435,8 @@ https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV MUSIC
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
+#EXTINF:1, DURONTO
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:1, ,Mohona Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg"group-title="Bangla TV", Alpona TV
