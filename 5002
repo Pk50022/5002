@@ -1,3 +1,31 @@
+#EXTINF:-1 ,asian-test-sample-ok-d
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 ,bijoy00
+http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 ,channel9hd
+http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 ,deeptotv
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 ,Desh_TV_SD
+https://tv.kotha.im/Desh_TV_SD/index.m3u8
+#EXTINF:-1 ,Duronto_TV_HD
+https://tv.kotha.im/Duronto_TV_HD/index.m3u8
+#EXTINF:-1 ,Channel-1
+http://103.102.27.172:6464/Channel-1/index.m3u8
+#EXTINF:-1 ,maasrangalive
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 ,MOHONA TV
+http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 ,NAGORIK TV
+https://tv.kotha.im/Nagorik_TV_HD/index.m3u8
+#EXTINF:-1 ,NTV
+https://tv.kotha.im/NTV_SD/index.m3u8
+#EXTINF:-1 ,NTV
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 ,RTV
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 ,xyz
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PW9hRDa.png",SUN BANGLA
 http://208.86.19.13:81/903.stream/index.m3u8
